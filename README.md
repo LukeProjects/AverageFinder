@@ -12,4 +12,4 @@ Finds the average of the numbers in an array.
 3. Run ``java Main``
 
 ## Credits
-- [@lukecywon](@lukecywon) - Coder
+- @lukecywon - Coder
